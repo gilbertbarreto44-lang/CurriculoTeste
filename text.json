@@ -1,0 +1,129 @@
+
+{
+    "cv": {
+      "metadata": {
+        "version": "1.0",
+        "language": "pt-BR",
+        "lastUpdated": "2026-11-05"
+      },
+      "personalInformation": {
+        "fullName": "Gilberto Barreto Neponuceno Júnior",
+        "professionalTitle": "Estudante de Análise e Desenvolvimento de Sistemas",
+        "profilePhoto": "",
+        "email": "gilberto44@gmail.com",
+        "phone": "+55 11 835098176",
+        "whatsapp": "https://wa.me/5511912345678",
+        "location": {
+          "state": "São Paulo",
+          "country": "Brasil"
+        },
+        "linkedin": "https://br.linkedin.com/",
+        "github": "https://github.com/gilbertbarreto44-lang"
+      },
+      "professionalSummary": {
+        "description": "Estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos em desenvolvimento web e JavaScript. Busco oportunidades para desenvolver minhas habilidades, resolver problemas por meio da programação e contribuir com projetos de tecnologia.",
+        "yearsOfExperience": 1,
+        "mainSpecialization": "Análise e Desenvolvimento de Sistemas",
+        "careerObjective": "Atuar na área de desenvolvimento de software, contribuindo para projetos e adquirindo experiência profissional."
+      },
+      "professionalExperience": [
+        {
+          "company": "Companhia Inexistente",
+          "position": "Júnior",
+          "employmentType": "CLT",
+          "location": "São Paulo",
+          "startDate": "19/09/2001",
+          "endDate": "13/03/2020",
+          "current": false,
+          "description": "",
+          "responsibilities": [
+            "Atuação como analista de Excel"
+          ],
+          "achievements": [
+            "45 projetos finalizados"
+          ],
+          "technologies": [
+            "Excel"
+          ]
+        }
+      ],
+      "education": [
+        {
+          "institution": "UniPiaget",
+          "degree": "Tecnólogo",
+          "fieldOfStudy": "Análise e Desenvolvimento de Sistemas",
+          "level": "Graduação tecnológica",
+          "startDate": "01/02/2026",
+          "endDate": "",
+          "current": true,
+          "description": "Curso superior de tecnologia em andamento."
+        }
+      ],
+      "skills": {
+        "technical": [
+          {
+            "name": "Internet",
+            "level": "Intermediário"
+          },
+          {
+            "name": "JavaScript",
+            "level": "Júnior"
+          },
+          {
+            "name": "HTML",
+            "level": "Em desenvolvimento"
+          },
+          {
+            "name": "CSS",
+            "level": "Em desenvolvimento"
+          }
+        ],
+        "behavioral": [
+          "Calma",
+          "Trabalho em equipe"
+        ],
+        "tools": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Excel"
+        ],
+        "methodologies": []
+      },
+      "languages": [],
+      "projects": [
+        {
+          "name": "Calculadora",
+          "description": "Calculadora online desenvolvida utilizando JavaScript.",
+          "role": "Desenvolvimento da lógica em JavaScript",
+          "technologies": [
+            "JavaScript"
+          ],
+          "url": "https://github.com/gilbertbarreto44-lang/Calculadora-JS",
+          "startDate": "05/09/2026",
+          "endDate": "05/09/2026"
+        }
+      ],
+      "courses": [],
+      "additionalInformation": {
+        "availability": "",
+        "workModel": "Trabalho individual e em equipe",
+        "travelAvailability": false,
+        "additionalNotes": ""
+      },
+      "preferences": {
+        "targetPositions": [
+          "Estágio",
+          "Desenvolvedor Front-End Júnior"
+        ],
+        "targetIndustries": [
+          "Startups"
+        ],
+        "preferredLocations": [
+          "São Paulo"
+        ],
+        "preferredWorkModel": "Presencial"
+      }
+    }
+  }
+  
